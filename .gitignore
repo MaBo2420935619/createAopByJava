@@ -1,0 +1,4 @@
+# Project exclude paths
+/Annotation/target/
+/AOP/target/
+/data注解/target/
